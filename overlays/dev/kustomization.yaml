@@ -7,4 +7,4 @@ resources:
 images:
   - name: book-api
     newName: zoltuya123/book-api
-    newTag: "aac5522"
+    newTag: "3399d42"
