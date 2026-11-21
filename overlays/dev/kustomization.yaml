@@ -7,4 +7,4 @@ resources:
 images:
   - name: book-api
     newName: zoltuya123/book-api
-    newTag: "3399d42"
+    newTag: "eca92e0"
